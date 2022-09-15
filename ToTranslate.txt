@@ -1,12 +1,15 @@
 
 riga modificata da prima
 
-
+aggiunta della riga 4
 
 
 TIT. (DA SÉ)(LA VORÌA LICENZIARE; MA NO SO COME FARE.)
-
-PAS. (A LUCIETTA)(VÀRDELO UN PO      a lucietta guardatelo un pocoCO.)
+    da se la vorrei licenziare ma non so come fare
+PAS. (A LUCIETTA)(VÀRDELO UN POCO.)
+    a lucietta guardatelo un poco      
+PAS. (A LUCIETTA)(VÀRDELO UN POCO.)
+      
 
 LUC. (A PASQUA)(EH! CHE HO DA VARDARE IL MIO MERLO, MÌ, HO DA VARDARE.)
 
